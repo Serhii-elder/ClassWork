@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{11B7EF84-C633-4340-9B19-E2D93BE9E9A4}"
+	ProjectSection(SolutionItems) = preProject
+		..\Student\Student.sln = ..\Student\Student.sln
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29234EDF-ABC0-4C28-ADB2-5AB1525F4E04}
+	EndGlobalSection
+EndGlobal
